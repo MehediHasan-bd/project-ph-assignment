@@ -71,15 +71,14 @@ background-color:rgba(13, 19, 33, 0.02);
 
 }
 .development-content{
-    margin: 15px;
+margin: 15px;
 }
 .development{
-    display: flex;
-    flex-direction: column;
-    padding: 10px 300px;
-    border-radius: 16x;
-    margin: 0 50 0 0px;
-    
+display: flex;
+flex-direction: column;
+padding: 10px 300px;
+border-radius: 16x;
+margin: 0 50 0 0px;
 }
 .development-main-title{
 color: rgb(13, 19, 33);
@@ -134,8 +133,7 @@ padding: 6px 10px;
 
 /* page 3 start */
 .inspiration-title {
-    color: rgb(13, 19, 33);
-font-family: Azeret Mono;
+color: rgb(13, 19, 33);
 font-size: 32px;
 font-weight: 800;
 line-height: 60px;
@@ -143,7 +141,7 @@ letter-spacing: 0%;
 text-align: center;
 }
 .inspiration-subtitle{
-    color: rgb(13, 19, 33);
+color: rgb(13, 19, 33);
 font-size: 16px;
 font-weight: 400;
 line-height: 26px;
@@ -205,7 +203,6 @@ box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
 }
 .target-title{
 color: rgb(13, 19, 33);
-font-family: Azeret Mono;
 font-size: 24px;
 font-weight: 800;
 line-height: 36px;
@@ -214,7 +211,6 @@ text-align: left;
 }
 .target-subtitle{
 color: rgb(13, 19, 33);
-font-family: Azeret Mono;
 font-size: 16px;
 font-weight: 400;
 line-height: 26px;
@@ -261,8 +257,7 @@ letter-spacing: 0%;
 text-align: center;
 }
 .support-subtile{
-    color: rgb(255, 255, 255);
-font-family: Azeret Mono;
+color: rgb(255, 255, 255);
 font-size: 16px;
 font-weight: 400;
 line-height: 26px;
@@ -270,16 +265,16 @@ letter-spacing: 0%;
 text-align: center;
 }
 .input-container{
-    display: flex;
-    align-items: center;
-    margin-top: 50px;
+display: flex;
+align-items: center;
+margin-top: 50px;
 }
 #text{
-    box-sizing: border-box;
-    border: 1px solid rgba(13, 19, 33, 0.15);
-    border-radius: 8px;
-    margin: 0px 16px;
-    justify-content: flex-start;
+box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 8px;
+margin: 0px 16px;
+justify-content: flex-start;
 align-items: center;
 padding: 19px 20px 19px 20px;
 position: static;
@@ -293,11 +288,11 @@ height: 57px;
     border: 1px solid rgba(13, 19, 33, 0.15);
     border-radius: 8px;
     background: rgb(255, 255, 255);
-justify-content: center;
-align-items: center;
-font-weight: bold;
-padding: 17px 20px 17px 20px;
-color: (13, 19, 33);
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    padding: 17px 20px 17px 20px;
+    color: (13, 19, 33);
 }
 
 /* footer style */
